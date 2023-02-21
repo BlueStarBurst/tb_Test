@@ -1,0 +1,10 @@
+id: QmXgr8u5qe9Wp1AxwnNDeMYuq5MYy3QGXhqg6eDYALmy3R
+description: ""
+tags: []
+match: arworldmaps
+useRegex: false
+access:
+    network: host
+object:
+    versioning: false
+    size: 100MB
