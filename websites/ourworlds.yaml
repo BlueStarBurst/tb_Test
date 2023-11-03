@@ -5,6 +5,8 @@ domains:
     - GeneratedDomain
 source:
     paths:
+        - /
+        - /docs
         - /docs/index.html
     branch: web
     github:
